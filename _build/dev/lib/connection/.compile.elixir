@@ -1,0 +1,10 @@
+v2.
+{<<"/Users/Isaac/Documents/Elixir and Angular/elixirAngular/_build/dev/lib/connection/ebin/Elixir.Connection.beam">>,
+ 'Elixir.Connection',module,<<"lib/connection.ex">>,
+ [erlang,'Elixir.List','Elixir.ArgumentError','Elixir.Kernel',
+  'Elixir.Kernel.Utils','Elixir.GenServer','Elixir.Protocol','Elixir.Module',
+  'Elixir.Keyword','Elixir.String.Chars','Elixir.Behaviour',
+  'Elixir.Kernel.Typespec'],
+ ['Elixir.Process',error_logger,code,gen_server,proc_lib,gen,'Elixir.Code',
+  'Elixir.System',global],
+ [],nil}.
